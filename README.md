@@ -1,4 +1,4 @@
-# MTT CoHack Challenge : [Topic Name]
+# MTT CoHack Challenge : Azure AI Langiuage and Power Automate
 
 
 ## Introduction
