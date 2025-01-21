@@ -1,4 +1,4 @@
-# MTT CoHack Challenge : Azure AI Langiuage and Power Automate
+# MTT CoHack Challenge : Azure AI Language and Power Automate
 
 
 ## Introduction
